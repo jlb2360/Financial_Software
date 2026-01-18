@@ -1,0 +1,15 @@
+{
+    "CURRENT AGE": 35,
+    "PORTFOLIO": {
+        "CURRENT": 200000,        // Starting investment balance
+        "MONTHLY DEPOSIT": 2500,  // Monthly savings during your career
+        "ANNUAL DIVIDENDS": 4000  // Initial annual passive income
+    },
+    "RETIREMENT": {
+        "RETIREMENT AGE": 65,
+        "DEATH AGE": 95,          // The end point for the simulation
+        "ANNUAL SPEND": 100000,    // Target yearly budget in todays dollars
+        "SOCIAL SECURITY": 30000, // Estimated annual benefit at retirement in todays dollars
+        "EMERGENCY SAVINGS": 3    // Number of "bad years" you can survive without selling stocks
+    }
+}
